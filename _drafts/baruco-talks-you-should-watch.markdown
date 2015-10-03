@@ -13,7 +13,7 @@ Of course you gotta watch it, or arn't you interested where Ruby is going? Matz 
 ## Sandi Metz: Nothing is Something
 
 <iframe width="710" height="399" src="https://www.youtube-nocookie.com/embed/9mLK_8hKii8?rel=0" frameborder="0" allowfullscreen></iframe>
-I'm kinda a fanboy of Sandi, I think she explains important OO ideas very approachable.
+I'm kinda a fanboy of Sandi, I think she explains important ideas of object oriented programming very approachable.
 She gave the talk at least before at [BathRuby](https://youtu.be/9lv2lBq6x4A) & [RailsConf](https://youtu.be/OMPfEXIlTVE), but even if you watched there, it's still good to get a refresh.
 She talks about how to do conditions by just sending messages (so, how to do Ruby without `if`), the Null Object Pattern and why you should avoid inheritance in many cases and should compose your objects instead.
 Again, really well explained, definitely recommended!
