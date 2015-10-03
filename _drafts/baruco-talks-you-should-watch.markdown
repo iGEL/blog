@@ -29,7 +29,7 @@ If you don't like his humor, skip the first 5 minutes, but don't skip the talk!
 ## Yahuda Katz: Rewriting a Ruby C Extension in Rust
 
 <iframe width="710" height="399" src="https://www.youtube-nocookie.com/embed/2BdJeSC4FFI?rel=0" frameborder="0" allowfullscreen></iframe>
-Yahuda is not really active in Ruby lands any more afaics, but spends lots of time with Ember.js and Rust.
+Yahuda is not really active in Ruby lands any more <span title="As far as I can see">afaics</span>, but spends lots of time with Ember.js and Rust.
 I like the ideas I hear about Rust, so it's no surprise to me that I also liked his talk.
 Yahuda talked about his experiences of reimplementing [fast_blank](https://github.com/SamSaffron/fast_blank) in Rust for fun.
 fast_blank is a C implementation of ActiveSupport's `blank?` method, because a typical Rails app spends about 4% of it's CPU time there.
