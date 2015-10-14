@@ -29,7 +29,7 @@ If you don't like his humor, skip the first 5 minutes, but don't skip the talk!
 ## Yahuda Katz: Rewriting a Ruby C Extension in Rust
 
 <iframe width="710" height="399" src="https://www.youtube-nocookie.com/embed/2BdJeSC4FFI?rel=0" frameborder="0" allowfullscreen></iframe>
-Yahuda is not really active in Ruby lands any more <span title="As far as I can see">afaics</span>, but spends lots of time with Ember.js and Rust.
+Yahuda is not really active in Ruby lands any more <abbr title="As far as I can see">afaics</abbr>, but spends lots of time with Ember.js and Rust.
 I like the ideas I hear about Rust, so it's no surprise to me that I also liked his talk.
 Yahuda talked about his experiences of reimplementing [fast_blank](https://github.com/SamSaffron/fast_blank) in Rust for fun.
 fast_blank is a C implementation of ActiveSupport's `blank?` method, because a typical Rails app spends about 4% of it's CPU time there.
@@ -38,23 +38,28 @@ He then takes this example and explains, why it's faster.
 
 ## Corey Haines: Fun with Lambdas!
 
-Not much practical value for your daily work, but lots of fun with Lambda Calculus in Ruby. Watch it! (Once the video is out)
+<iframe width="710" height="399" src="https://www.youtube-nocookie.com/embed/gULkBpl3e7c?rel=0" frameborder="0" allowfullscreen></iframe>
+Not much practical value for your daily work, but lots of fun with Lambda Calculus in Ruby. Have you implemented lists with just lambdas? Watch it!
 
 ## John Cinnamond: Extreme Object-Oriented Ruby.
 
+<iframe width="710" height="399" src="https://www.youtube-nocookie.com/embed/FDs-sSxo2iY?rel=0" frameborder="0" allowfullscreen></iframe>
 John takes Sandi's obsession with Object Orientation to the next level.
-The result is again not really relevant to solve my daily work, but fun and interesting. (The video isn't out yet)
+The result is again not really relevant to real work, but fun.
+John defines allows four concepts in his pure OO Ruby: Defining classes, instanciate them, store references to them and send messages to them, but nothing else.
+Build in classes like `Fixnum`, `String`, `Array`, `TrueClass` & `FalseClass` violate that and are forbidden.
+But can he create a pure OO version of them without breaking the rules? Let's watch!
 
 ## Bryan Liles: After you commit that code.
 
 <iframe width="710" height="399" src="https://www.youtube-nocookie.com/embed/xytTA4dKaP0?rel=0" frameborder="0" allowfullscreen></iframe>
-A more devops oriented talk, but the average company has to improve things in this area.
-The style of presentation is a bit confusing, but I actually liked it because made the talk more interesting and fun.
+A more devops oriented talk, but the average company has to fix things in this area.
+The style of presentation is a bit confusing, but I actually liked it because made the talk more interesting.
 And the ideas presented where right down my alley, so go watch it.
 
 ## The Rest
 
 There were more talks even for the Baruco part that I haven't mentioned here. Most of them are still worth watching. The only talks that I didn't like were from Rin Raeuber and Ernie Miller. You can find all talks in [this playlist](https://youtu.be/CLPgyri3fEY?list=PLe9psSNJBf77PgzYZ2yId2RfUkd9_lMMr).
 
-Lets end with the highlighs video:
+Let's end with the highlighs video:
 <iframe width="710" height="399" src="https://www.youtube-nocookie.com/embed/UUKh1cEfJ0w?rel=0" frameborder="0" allowfullscreen></iframe>
