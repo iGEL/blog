@@ -76,8 +76,4 @@ And the ideas presented where right down my alley, so go watch it.
 
 There were more talks even for the Baruco part that I haven't mentioned here. Most of them are still worth watching. The only talks that I didn't like were from Rin Raeuber and Ernie Miller. You can find all talks in [this playlist](https://youtu.be/CLPgyri3fEY?list=PLe9psSNJBf77PgzYZ2yId2RfUkd9_lMMr).
 
-Let's end with the highlighs video:
-<div class="embed-container">
-<iframe src="https://www.youtube-nocookie.com/embed/UUKh1cEfJ0w?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
